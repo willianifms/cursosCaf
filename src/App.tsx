@@ -83,7 +83,7 @@ function App() {
     <>
       <Header />
       <main className="container my-4">
-        <h1 className="text-center mb-5">Painel de Vídeos</h1>
+        <h1 className="text-center mb-5">Passos da OS</h1>
 
         <div className="accordion" id="videoAccordion">
           {sections.map((section, index) => (
