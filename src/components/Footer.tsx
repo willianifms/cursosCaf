@@ -1,5 +1,5 @@
 import React from "react";
-import { FaWhatsapp, FaEnvelope, FaPhone} from 'react-icons/fa';
+import { FaEnvelope, FaPhone} from 'react-icons/fa';
 
 const Footer: React.FC = () => {
   return (
