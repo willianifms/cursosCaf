@@ -2,6 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import VideoCard from "./components/VideoCard";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const sections = [
   {
@@ -122,6 +123,7 @@ function App() {
           ))}
         </div>
       </main>
+      <Footer />
     </>
   );
 }
