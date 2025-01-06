@@ -9,13 +9,10 @@ const sections = [
     title: "Listagem",
     videos: [
       {
-        title: "Vídeo Listagem 1",
-        src: "https://www.w3schools.com/html/mov_bbb.mp4",
+        title: "O que é Listagem",
+        src: "./movies/listagem.mp4",
       },
-      {
-        title: "Vídeo Listagem 2",
-        src: "https://www.w3schools.com/html/mov_bbb.mp4",
-      },
+
     ],
   },
   {
